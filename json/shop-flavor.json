@@ -1,8 +1,9 @@
 {
 	"name": "Shop Flavor",
-	"explanation": "A list of descriptions to provide flavor for a fantasy-roleplaying shop",
+	"explanation": "A list of descriptions to provide flavor for a fantasy-RPG shop",
     "author": "Jay Robinson",
-    "release": "1.1",
+    "date": "2018-07-13",
+    "release": "1.2",
 	
 	"resultPattern": "{shop-flavor} ",
 	
@@ -113,6 +114,7 @@
 				"As a thank-you, the shopkeeper includes a small home-baked cake with your purchase. It is delicious.",
 				"The shopkeeper's eyes dart among his customers' faces. She seems nervous or suspicious.",
 				"The shopkeeper's clothes are plain, but he wears expensive-looking rings.",
+				"The shopkeeper is heavily perfumed.",
 			]
 		}
 	]
