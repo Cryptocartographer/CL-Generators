@@ -1,0 +1,31 @@
+== {b#7a2000|Animated Armor} ==
+{"https://media-waterdeep.cursecdn.com/avatars/thumbnails/8/429/1000/1000/636306156895834255.jpeg"|Image}
+{i|Medium construct, unaligned}
+─────────────────────────────────────────────
+{b#7a2000|Armor Class} {#7a200d|18 (natural armor)}
+{b#7a2000|Hit Points} {#7a200d|33 (6d8 + 6) }
+{b#7a2000|Speed} {#7a200d|25ft}
+─────────────────────────────────────────────
+{b#7a2000|
+|| STR || DEX || CON || INT || WIS || CHA
+|| 14 (+2) || 11 (+0) || 13 (+1) || 1 (-5) || 3 (-4) || 1 (-5)
+}─────────────────────────────────────────────
+{b#7a2000|Damage Immunities} {#7a200d|poison, psychic}
+{b#7a2000|Condition Immunities} {#7a200d|blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned}
+{b#7a2000|Senses}  {#7a2000|blindsight 60 ft. (blind beyond this radius), passive Perception 6}
+{b#7a2000|Languages} {#7a2000|—}
+{b#7a2000|Challenge}  {#7a200d|1 (200 XP)}
+─────────────────────────────────────────────
+{bi|Antimagic Susceptibility.}
+The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster’s spell save DC or fall unconscious for 1 minute.
+
+{bi|False Appearance.}
+While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+
+=== {#7a2000|Actions} ===
+─────────────────────────────────────────────
+{bi|Multiattack.} The armor makes two melee attacks.
+
+{bi|Slam.} {i|Melee Weapon Attack:} +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.
+
+Source: {"https://dnd.wizards.com/articles/features/systems-reference-document-srd"|5th Edition SRD}
